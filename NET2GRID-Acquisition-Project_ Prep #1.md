@@ -30,7 +30,7 @@ A private channel/group was created in Slack in order to communicate and update 
 
 We will make sure that everyone is on board with every step of the project, having either worked on it or at least understood what was done by the other colleague every time there is a github commit or a decision was taken.
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
 ### **Conflict Plan**
 **- What will be your group’s process to resolve conflict, when it arises?**
@@ -112,6 +112,9 @@ Sérgio: By having an open-door policy to all questions and problems, making sur
 Vasco: I will always ask for their opinion. We are a team, so we need to know everyone’s opinion to the benefit of the project.
 
 Diogo:
+
+---
+
 ### **Work Plan**
 **NOTE**: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
 
