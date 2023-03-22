@@ -30,6 +30,7 @@ A private channel/group was created in Slack in order to communicate and update 
 
 We will make sure that everyone is on board with every step of the project, having either worked on it or at least understood what was done by the other colleague every time there is a github commit or a decision was taken.
 
+_______________________________________________________________________________________________________________________________________________________________________
 
 ### **Conflict Plan**
 **- What will be your group’s process to resolve conflict, when it arises?**
@@ -60,7 +61,7 @@ We know each other and the commitment we all have with this course. This will no
 
 The key is to keep ourselves calm and  de-escalate any type of conflicts promtly. During our professional lives we will need to overcome a lot of barriers and difficulties. In fact, this is just the beginning and it is important to start dealing with that in a better way. In the rare case of  a conflict becoming unmanageable the best approach is with a 2 to 1 or 3 to 0 vote to escalate to either a TA or the lecturer.
 
-
+---
 
 ### **Communication Plan**
 **- What hours will you be available to communicate?**
