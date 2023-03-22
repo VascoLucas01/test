@@ -1,6 +1,6 @@
-# </a>**Team Agreement**
-### </a>**Cooperation Plan**
-- What are the key strengths of each person on the team?
+# **Team Agreement**
+### **Cooperation Plan**
+**- What are the key strengths of each person on the team?
 
 Sérgio: Problem Solving, Critical Thinking, Good Communicator 
 
