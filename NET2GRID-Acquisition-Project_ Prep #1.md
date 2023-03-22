@@ -1,5 +1,5 @@
-﻿# <a name="_jztxwingy9go"></a>**Team Agreement**
-### <a name="_s20pg34bh4zx"></a>**Cooperation Plan**
+# </a>**Team Agreement**
+### </a>**Cooperation Plan**
 - What are the key strengths of each person on the team?
 
 Sérgio: Problem Solving, Critical Thinking, Good Communicator 
@@ -31,16 +31,16 @@ A private channel/group was created in Slack in order to communicate and update 
 We will make sure that everyone is on board with every step of the project, having either worked on it or at least understood what was done by the other colleague every time there is a github commit or a decision was taken.
 
 
-### <a name="_4o0eq7upw0lz"></a>**Conflict Plan**
+### **Conflict Plan**
 - What will be your group’s process to resolve conflict, when it arises?
 
-`	`The best way to resolve conflicts is by expressing your opinion. I think that there are a few questions that we should always ask to come to a conclusion. 
+The best way to resolve conflicts is by expressing your opinion. I think that there are a few questions that we should always ask to come to a conclusion. 
 
 - What is your opinion about this?
 - What are the reasons you think that it is a good/better idea?
 - In the context of the project, do you think it makes sense?
 
-`	`It is important to share ideas and be in the same boat in order to reach a good port.
+It is important to share ideas and be in the same boat in order to reach a good port.
 
 - What will your team do if one person is taking over the project and not letting the other members contribute?
 
@@ -62,7 +62,7 @@ The key is to keep ourselves calm and  de-escalate any type of conflicts promtly
 
 
 
-### <a name="_j8xvrtv7wk51"></a>**Communication Plan**
+### **Communication Plan**
 - What hours will you be available to communicate?
 
 Sérgio: I will always be available to communicate. Work hours will be from 9AM to 10PM.
@@ -111,7 +111,7 @@ Sérgio: By having an open-door policy to all questions and problems, making sur
 Vasco: I will always ask for their opinion. We are a team, so we need to know everyone’s opinion to the benefit of the project.
 
 Diogo:
-### <a name="_5mg0x4pvj4kx"></a>**Work Plan**
+### **Work Plan**
 **NOTE**: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
 
 - How will you identify tasks, assign tasks, know when they are complete, and manage work in general?
