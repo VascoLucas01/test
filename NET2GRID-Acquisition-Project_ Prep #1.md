@@ -1,5 +1,6 @@
 # **Team Agreement**
 ## **Cooperation Plan**
+
 **- What are the key strengths of each person on the team?**
 
 Sérgio: Problem Solving, Critical Thinking, Good Communicator 
@@ -7,6 +8,7 @@ Sérgio: Problem Solving, Critical Thinking, Good Communicator
 Vasco: Research, Persistent, Enthusiast
 
 Diogo:
+
 
 **- How can you best utilize these strengths in the execution of your project?**
 
@@ -16,6 +18,7 @@ Vasco: Always ask if they need help, give suggestions and welcome them too in or
 
 Diogo: 
 
+
 **- In which professional competencies do you each want to develop greater strength?**
 
 Sérgio: Organization, Self Confidence
@@ -23,6 +26,7 @@ Sérgio: Organization, Self Confidence
 Vasco: Self Confidence, keep calm
 
 Diogo:
+
 
 **- Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
@@ -33,6 +37,7 @@ We will make sure that everyone is on board with every step of the project, havi
 ---
 
 ## **Conflict Plan**
+
 **- What will be your group’s process to resolve conflict, when it arises?**
 
 The best way to resolve conflicts is by expressing your opinion. I think that there are a few questions that we should always ask to come to a conclusion. 
@@ -42,6 +47,7 @@ The best way to resolve conflicts is by expressing your opinion. I think that th
 **- In the context of the project, do you think it makes sense?**
 
 It is important to share ideas and be in the same boat in order to reach a good port.
+
 
 **- What will your team do if one person is taking over the project and not letting the other members contribute?**
 
@@ -64,6 +70,7 @@ The key is to keep ourselves calm and  de-escalate any type of conflicts promtly
 ---
 
 ## **Communication Plan**
+
 **- What hours will you be available to communicate?**
 
 Sérgio: I will always be available to communicate. Work hours will be from 9AM to 10PM.
@@ -71,6 +78,7 @@ Sérgio: I will always be available to communicate. Work hours will be from 9AM 
 Vasco: I will always be available to communicate. Work hours will be from 7/8/9AM to 10PM.
 
 Diogo:
+
 
 **- What platforms will you use to communicate (ie. Slack, phone …)?**
 
@@ -84,6 +92,7 @@ Vasco: Thursday and Sunday from 8am - 10am.
 
 Diogo: 
 
+
 **- What is your plan if you start to fall behind?**
 
 Sérgio: Ask my colleagues for help, work locally outside work hours if needed.
@@ -92,6 +101,7 @@ Vasco: Talk with my colleagues about what am I doing wrong and ask for help.
 
 Diogo:
 
+
 **- How will you communicate after hours and on the weekend?**
 
 Sérgio: I will always be available for a quick message and to help a colleague either via Slack, WhatsApp or SMS.
@@ -99,6 +109,7 @@ Sérgio: I will always be available for a quick message and to help a colleague 
 Vasco: I will always be available.
 
 Diogo:
+
 
 **- What is your strategy for ensuring everyone’s voice is heard?**
 
@@ -116,11 +127,14 @@ Diogo:
 ---
 
 ## **Work Plan**
+
 **NOTE**: While researching and experimentation is always encouraged, writing and/or committing code to the project on your own during non-working hours or over the weekend is never acceptable. This puts the entire project at risk. Be explicit in calling out your work hours and the distribution of tasks.
+
 
 **- How will you identify tasks, assign tasks, know when they are complete, and manage work in general?**
 
 By reading the summary together and building a network topology of what is required we can then check which tasks need to be done, then we can try to use our strengths identified above to assign those tasks accordingly following everyone’s opinion. We will know when things are complete when a member of the team completes a task and then the other members verify that it does what is needed for the project and that it is working flawlessly. 
+
 
 **- What project management tool will be used?**
 
